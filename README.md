@@ -1,4 +1,4 @@
-# LightTower-IDS
+# LT-IDS
 
 Lightweight Tower Defense-based Intrusion Detection System is an intrusion detection system based on implementation of tower-defense model for threat detection alongside machine learning to create a lightweight and effective system for detecting threats.
 
