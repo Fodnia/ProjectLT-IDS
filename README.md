@@ -128,7 +128,7 @@ First, obtain the CIC-IDS2017 dataset (or prepare your own dataset with the same
 
 Second, update the path in `ids_trainer.py` or `ids_trainer.ipynb`:
    ```python
-   files = glob.glob("/path/to/your/CSV2017/*.csv")  # Change this path
+   files = glob.glob("/content/drive/MyDrive/CSV2017/*.csv")  # Change this path
    ```
    
 Finally, in Python, run `ids_trainer.py` or `ids_trainer.ipynb` to train the model.
